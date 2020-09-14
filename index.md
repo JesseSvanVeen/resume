@@ -1,8 +1,65 @@
-## Welcome to GitHub Pages
+# Resume Jesse Sylvain van Veen
 
-You can use the [editor on GitHub](https://github.com/JesseSvanVeen/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Courses
+### Hanze University of Applied Science
+<details>
+<summary>2016-2017</summary>
+<br>
+-Databases & UML                   
+  -Human Computer Interaction  
+  -IT Service Management <br/>
+-SQL                                            
+  -Configuration Management      
+  -Infrastructures <br/>
+-Web Programming                 
+  -Object Oriented programming 
+  -Security Awareness <br/>
+-Communication Skills            
+  -Mathematics                                  
+  -Research <br/>
+-Intercultural Competencies  
+  -Project Management                   
+  -Data Visualisation <br/>
+-Statistics
+</details>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<details>
+<summary>2017-2018</summary>
+<br>
+-Computer Architecture & Design  -Research strategies and methods
+-Python                                                 -OOP & Design Patterns    
+-C/Assembly                                         -Algorithms & Data Structures        
+-Communication                                 -Web & Mobile              
+ -Networks                                             -Operating Systems    
+</details>
+
+<details>
+<summary>2019-2020</summary>
+<br>
+- Software Dev. Lifecycle	           -Team development and personal leadership
+-Artificial Intelligence                         -Machine Learning    
+-Test driven development                 -Software Engineering        
+-Secure Coding                                    -Software Quality
+ -Enterprise App Integration                                               
+</details>
+
+### University of Groningen
+<details>
+<summary>Pre-Master Courses</summary>
+<br>
+-Introduction to Logic	-Knowledge and Agent Technology
+-Statistics			-Calculus for AI
+-Autonomous Systems	-Data Analytics and Communication                                         
+</details>
+
+### Hogeschool PXL 
+BUS-IT<br>
+Feb 2017	  Hasselt, Belgium <br>
+A course at  PXL teaching the basics of ROC, Python and OpenCV via programming drones.
+
+
+
+
 
 ### Markdown
 
